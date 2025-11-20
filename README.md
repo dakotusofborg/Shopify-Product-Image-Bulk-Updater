@@ -1,5 +1,6 @@
 # Shopify Product Image Bulk Updater
 
+This project was implemented for https://shop.petersengames.com/ to bulk update their product images. 
 A Python script that automatically updates Shopify product images from a Google Drive folder, matching images to products by SKU.
 
 ## Overview
